@@ -74,7 +74,7 @@ textarea {
     $MAIN
 \*------------------------------------*/
 html {
-    background-color: #f7fffa;
+    background-color: #FBFBFB;
     color: #000000;
     font: 12px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
@@ -164,7 +164,7 @@ a {
     font-weight: bold;
 }
 a:hover, a:focus {
-    color: #000000;
+    color: #00A0FF;
     -webkit-transition: color 0.2s ease;
     -moz-transition: color 0.2s ease;
     -o-transition: color 0.2s ease;
